@@ -11,6 +11,7 @@ Demo code for Responsive photo gallery:file:///C:/Users/velra/OneDrive/Desktop/h
 <img width="1920" height="744" alt="image" src="https://github.com/user-attachments/assets/d18d1184-d0a9-4d17-a127-a51adc903b48" />
 
 Demo code for Navigation Bar with Dropdown:file:///C:/Users/velra/OneDrive/Desktop/html/navigation.html
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/006298d7-d1ee-47d8-b750-e8674b08c684" />
+<img width="1917" height="871" alt="image" src="https://github.com/user-attachments/assets/cbfd12b8-d597-4008-84aa-5fc9b40ed99a" />
+
 
 
